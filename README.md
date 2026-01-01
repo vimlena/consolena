@@ -1,5 +1,7 @@
 # Consolena
 
+![A picture of the different variations of Consolena with a pangram sentence and some various punctuation and symbols.](./consolena-variants.png)
+
 Consolena is a monospace typeface with an emphasis on legibility and
 consistency. Looks best at slightly higher point sizing than you are probably
 using, in my tests 12.5–13.5 pt. Many screens are very high resolution these
@@ -13,9 +15,9 @@ It comes in four variants:
 3. Regular width, has ligatures (ConsolenaL)
 4. Condensed width, has ligatures (ConsolenaLC)
 
-Consolena and ConsolenaAlt are based on
-[Iosevka](https://github.com/be5invis/Iosevka/) by Belleve Invis, specifically
-the SS04 DejaVu Sans Mono/Meslo stylistic set with term spacing.
+Consolena is based on [Iosevka](https://github.com/be5invis/Iosevka/) by
+Belleve Invis, specifically the SS04 DejaVu Sans Mono/Meslo stylistic set with
+term spacing.
 
 Not everybody likes ligatures, which is why I made versions that do not
 have as well as versions that include ligatures. For versions that support
