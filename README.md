@@ -2,6 +2,8 @@
 
 ![A picture of the different variations of Consolena with a pangram sentence and some various punctuation and symbols.](./consolena-variants.png)
 
+![A picture of all the Latin characters, a comparison of different weights (from “Thin” to “Heavy”), a comparison of italics, and a pangram of Greek and Russian using Cyrilic characters.](./consolena-styles.png)
+
 Consolena is a monospace typeface with an emphasis on legibility and
 consistency. Looks best at slightly higher point sizing than you are probably
 using, in my tests 12.5–13.5 pt. Many screens are very high resolution these
